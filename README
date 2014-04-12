@@ -1,1 +1,2 @@
 This is shadow++ project.
+You can download "ARToolKit" and modify the source of "simpleTest.c" in /examples/simple to "simpleTest.c" in Shadow/C, if you try to run this application.
